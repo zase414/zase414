@@ -1,5 +1,7 @@
 ## Hi mocnygaz
 ![zase414's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zase414&theme=default&hide_border=true)
+<p><a href="https://ko-fi.com/zased">Support me</p>
+
 <!--
 **zase414/zase414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
